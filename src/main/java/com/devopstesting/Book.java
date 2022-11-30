@@ -1,8 +1,5 @@
 package com.devopstesting;
 
-import lombok.ToString;
-
-@ToString
 public class Book {
 
 	private int id;
